@@ -1,4 +1,2 @@
-# wildbeast
-Praticando display Grid
-Fiz um curso da Origamid 
-Adquirir muito conhecimento a respeito do display grid
+Praticando os conhecimentos que adquirir no curso da  origamid com André Rafael nesse tópico o assunto abordado foi display grid.
+Com os conhecimentos das aulas desenvolvemos um site completamente responsivo... 
